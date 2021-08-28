@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/background">
+
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
+        app:cardCornerRadius="10dp"
+        android:elevation="10dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_margin="16dp">
+        <TextView
+            android:id="@+id/tv_store_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="clean Luandry 24*7"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:textStyle="bold"/>
+
+        <LinearLayout
+            android:id="@+id/layout_rating"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="5sp"
+            android:gravity="left"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tv_title">
+
+            <ImageView
+                android:id="@+id/Iv_star1"
+                android:layout_width="25sp"
+                android:layout_height="25sp"
+                android:src="@drawable/star"/>
+            <ImageView
+                android:id="@+id/Iv_star2"
+                android:layout_width="25sp"
+                android:layout_height="25sp"
+                android:src="@drawable/star"/>
+            <ImageView
+                android:id="@+id/Iv_star3"
+                android:layout_width="25sp"
+                android:layout_height="25sp"
+                android:src="@drawable/star"/>
+            <ImageView
+                android:id="@+id/Iv_star4"
+                android:layout_width="25sp"
+                android:layout_height="25sp"
+                android:src="@drawable/star"/>
+            <ImageView
+                android:id="@+id/Iv_star5"
+                android:layout_width="25sp"
+                android:layout_height="25sp"
+                android:src="@drawable/star"/>
+
+            <TextView
+                android:id="@+id/tv_total_rating"
+                android:layout_width="wrap_content"
+                android:layout_height="25sp"
+                android:text="(5.0)"
+                android:gravity="center_vertical" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tv_store_location"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5sp"
+            android:gravity="center_vertical"
+            android:text="17th Main, 6th Block, Koramangla, Bengaluru."
+            android:drawableLeft="@drawable/location_gray"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/layout_rating"/>
+
+
+        <Button
+            android:id="@+id/btn_contact_now"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginBottom="4dp"
+            android:layout_marginTop="16sp"
+            android:background="@drawable/bg_btn"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:elevation="5dp"
+            android:text="Contact now"
+            android:textAllCaps="false"
+            android:textStyle="bold"
+            android:layout_gravity="right"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+</androidx.constraintlayout.widget.ConstraintLayout>

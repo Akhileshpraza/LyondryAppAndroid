@@ -1,0 +1,167 @@
+<resources>
+    <string name="app_name">Lyondry</string>
+    <string name="surgicals">A Unit of BAPUJI SURGICALS</string>
+    <string name="humanity">Since 1980 in the Service of Humanity</string>
+    <string name="powered">Powered by LyonIT</string>
+    <string name="dont_account">Don’t have an account?</string>
+    <string name="number">+91 9090909090</string>
+    <string name="mobile">Mobile</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_signup">signup</string>
+    <string name="txt_signup">Signup</string>
+    <string name="txtname">Name</string>
+    <string name="txtemail">Email</string>
+    <string name="name">Full Name</string>
+    <string name="email">Emailid</string>
+    <string name="already">Already have an account?</string>
+    <string name="txt_login">Login</string>
+    <string name="agree">I agree to all the terms and conditions</string>
+    <string name="six_digits">A 6 digits code has been send to your mobile number</string>
+    <string name="txt_otp">Enter OTP</string>
+    <string name="otp">987822</string>
+    <string name="btn_verify">Verify</string>
+    <string name="havenot">Haven’t got OTP?</string>
+    <string name="resend">Resend</string>
+    <string name="terms">Terms and conditions</string>
+    <string name="schedual1">Schedule Pickup</string>
+
+    <string name="materialspinner">Material Spinner</string>
+    <string name="materialspinner_1">Material Spinner 1</string>
+    <string name="materialspinner_2">Material Spinner 2</string>
+    <string name="materialspinner_3">Material Spinner 3</string>
+    <string name="error">I am an error</string>
+
+    <string-array name="laundry_array">
+        <item>Select Laundry</item>
+        <item>Laundry</item>
+        <item>Laundry1</item>
+        <item>Laundry2</item>
+        <item>Laundry3</item>
+    </string-array>
+
+    <string-array name="clean_laundry_array">
+        <item>Select Clean Laundry 24x7</item>
+        <item>Clean Laundry1 24x7</item>
+        <item>Clean Laundry2 24x7</item>
+        <item>Clean Laundr3 24x7</item>
+        <item>Clean Laundry4 24x7</item>
+    </string-array>
+
+    <string-array name="date_formet">
+        <item>24 February 2021</item>
+        <item>24 February 2021</item>
+        <item>24 February 2021</item>
+        <item>24 February 2021</item>
+        <item>24 February 2021</item>
+    </string-array>
+
+    <string-array name="date_array">
+        <item>06–03-2021</item>
+        <item>06–03-2021</item>
+        <item>06–03-2021</item>
+        <item>06–03-2021</item>
+        <item>06–03-2021</item>
+    </string-array>
+
+    <string-array name="date_time">
+        <item>10:40</item>
+        <item>10:40</item>
+        <item>10:40</item>
+        <item>10:40</item>
+        <item>10:40</item>
+    </string-array>
+
+    <string-array name="short_date">
+        <item>Sort by Date</item>
+
+    </string-array>
+
+    <string name="pickup_address">Default Address</string>
+    <string name="new_pickup_address">Add New Pickup Address</string>
+    <string name="store">Store</string>
+    <string name="service">Service</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="timeslots">TimeSlot</string>
+    <string name="next">Next</string>
+    <string name="cancle">Cancel</string>
+    <string name="i_agree">I agree to all the terms and conditions</string>
+    <string name="or">OR</string>
+    <string name="normal_wash">Regular</string>
+    <string name="express_wash">Express</string>
+    <string name="recent_orders">Recent orders</string>
+
+    <string name="scheduale2">Terms and Conditions agreements act as a legal contract between you (the company) who has the website or mobile app and the user who access your website and mobile app.
+    </string>
+
+    <string name="sd1">Having a Terms and Conditions agreement is completely optional. No laws require you to have one. Not even the super-strict and wide-reaching General Data Protection Regulation (GDPR).
+</string>
+    <string name="sd2">Its up to you to set the rules and guidelines that the user must agree to. You can think of your Terms and Conditions agreement as the legal agreement where you maintain your rights to exclude users from your app in the event that they abuse your app, where you maintain your legal rights against potential app abusers, and so on.
+</string>
+    <string name="sd3">Terms and Conditions are also known as Terms of Service or Terms of Use.</string>
+
+    <string name="tmc0">LYONDRY Eco Carry Bags Are Chargeable</string>
+    <string name="tmc">Kindly Preserve This Ticket Until Garments Are Delivered.</string>
+    <string name="tmc1">Please Check All Your Garments At The Time Of Delivery.</string>
+    <string name="tmc3">Bill Once Made Cannot Be Cancelled.</string>
+    <string name="tmc4">LYONDRY Does Not Guarantee Removal Of All Stains.</string>
+    <string name="tmc5">Handloom Cottons/Silks and Dyed Fabrics May Change Colour Or Fade When Dry Cleaned.</string>
+    <string name="tmc6">LYONDRY Reserves The Right To Refuse Cleaning Any Garment/Article.</string>
+    <string name="tmc7">Quality of texture, colour, trimmings, etc. is entirely at owner’s risk.</string>
+    <string name="tmc8">The Company does not hold itself responsible for delay loss or damage to any article arising from unforeseen circumstances or from causes beyond control.</string>
+    <string name="tmc9">In the event of damage to article that is not caused by any of the above stated characteristics. LYONDRY liability is limited to six (6) times the cleaning charge of the damaged article.</string>
+    <string name="tmc10">Any difference in the count of items and the number of items on the bill must be reported at the time of delivery only. LYONDRY will not be responsible once the garments are out of the store .</string>
+    <string name="tmc11">In the unforeseen events of loss or misplacement of any article, LYONDRY shall conduct careful examination of the specific case. LYONDRY liability with respect to any lost item shall not exceed ten (10) times of charges for cleaning of article after as billed.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="pending_fragment">Pending</string>
+    <string name="completed_fragment">Completed</string>
+    <string name="purchageoffer_fragment">Purchaseoffer</string>
+
+    <string-array name="city">
+        <item>Bengaluru</item>
+        <item>Hubli-Dharwad</item>
+        <item>Mysuru</item>
+        <item>Kalaburagi</item>
+    </string-array>
+    <string name="about_contact">Lyondry is a part of Bapuji Surgicals, and it is your best destination for all your clothes, presently operating in Bangalore. Here, we provide premium dry cleaning and laundry home pick-up and delivery services at a reasonable price.</string>
+    <string name="about_contact2">If you are looking for a laundry service to end your woes, try out our laundry service. We use the latest technologies, cleaning methods and solutions to deal with your delicate clothes. We will deliver your clean clothes to your doorstep.</string>
+
+    <string-array name="select_gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string name="dialog_permission_title">Grant Permissions</string>
+    <string name="dialog_permission_message">This app needs permission to use this feature. You can grant them in app settings.</string>
+    <string name="go_to_settings">GOTO SETTINGS</string>
+
+    <string name="msg_error_unable_select_profile_pic">Unable to set profile image. Please try again!</string>
+    <string name="lbl_set_profile_photo">Set profile image</string>
+    <string name="lbl_take_camera_picture">Take a picture</string>
+    <string name="lbl_choose_from_gallery">Choose from gallery</string>
+    <string name="toast_image_intent_null">Image picker option is missing!</string>
+
+    <string name="Key_id">rzp_live_GmHf34CVrgTZGE</string>
+    <string name="nameerror">Name can not be blank</string>
+    <string name="emaileerror">Enter a valid email id</string>
+    <string name="mobileerror">Enter valid mobile number</string>
+    <string name="default_address">Default Address</string>
+    <string name="select_address_type">Select Address Type*</string>
+    <string name="enter_near_landmark">Enter near landmark</string>
+    <string name="landmark">Landmark</string>
+    <string name="enter_street">Enter street</string>
+    <string name="street">Street*</string>
+    <string name="enter_house_no">Enter house no</string>
+    <string name="house_name">House Name*</string>
+    <string name="search_location">Search Location</string>
+    <string name="enter_mobile_number">Enter mobile number</string>
+    <string name="enter_user_name">Enter user name</string>
+    <string name="enter_email_id">Enter email id</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="enter_full_name">Enter Full Name</string>
+    <string name="dialog_message">Welcome to Alert Dialog</string>
+    <string name="dialog_title">Javatpoint Alert Dialog</string>
+    <string name="feedback_and_register_complaint">Feedback and Register Complaint</string>
+
+</resources>

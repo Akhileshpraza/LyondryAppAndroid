@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/qrcode"
+        android:orderInCategory="100"
+        android:title="qrcode"
+        android:icon="@drawable/qrcode_icon"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/notification"
+        android:orderInCategory="100"
+        android:title="notification"
+        android:icon="@drawable/notification"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/about"
+        android:orderInCategory="100"
+        android:title="About"
+        android:iconTint="@color/white"
+        android:icon="@drawable/more_vertical"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/privacy_policy"
+        android:orderInCategory="100"
+        android:title="Privacy Policy"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/term_services"
+        android:orderInCategory="100"
+        android:title="Terms of Service"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/logout"
+        android:orderInCategory="100"
+        android:title="Logout"
+        app:showAsAction="never" />
+</menu>

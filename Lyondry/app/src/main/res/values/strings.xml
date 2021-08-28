@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Lyondry</string>
+    <string name="surgicals">A Unit of BAPUJI SURGICALS</string>
+    <string name="humanity">Since 1980 in the Service of Humanity</string>
+    <string name="powered">Powered By Qvertz www.qvertz.com</string>
+    <string name="dont_account">Don’t have an account?</string>
+    <string name="number">+91 9090909090</string>
+    <string name="mobile">Mobile</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_signup">signup</string>
+    <string name="txt_signup">Signup</string>
+    <string name="txtname">Name</string>
+    <string name="txtemail">Email</string>
+    <string name="name">David Millar</string>
+    <string name="email">david@gmail.com</string>
+    <string name="already">Already have an account?</string>
+    <string name="txt_login">Login</string>
+    <string name="agree">I agree to all the terms and conditions</string>
+    <string name="six_digits">A 6 digit code has been send to your mobile number</string>
+    <string name="txt_otp">Enter OTP</string>
+    <string name="otp">987822</string>
+    <string name="btn_verify">Verify</string>
+    <string name="havenot">Haven’t got OTP?</string>
+    <string name="resend">Resend</string>
+    <string name="schedual">Schedual a Pickup</string>
+
+
+</resources>

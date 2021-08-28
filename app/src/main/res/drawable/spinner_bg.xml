@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+        <shape xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/listview_background_shap">
+
+            <stroke android:width="1dp"
+                android:color="@color/light_gray"/>
+            <padding
+                android:bottom="1dp"
+                android:left="10dp"
+                android:right="25dp"
+                android:top="10dp"/>
+            <corners android:radius="10dp"></corners>
+        </shape>
+    </item>
+
+    <item>
+        <bitmap android:gravity="right"
+            android:src="@drawable/down_arrwo"></bitmap>
+    </item>
+
+</layer-list>
